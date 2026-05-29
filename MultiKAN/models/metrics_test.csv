@@ -1,0 +1,2 @@
+split,loss,accuracy,precision,recall,f1,dice,iou,dice_loss
+test,1.3061389803886414,0.8137039184570313,0.0,0.0,0.0,0.0,0.0,1.0
