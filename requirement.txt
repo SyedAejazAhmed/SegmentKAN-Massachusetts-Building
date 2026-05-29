@@ -1,0 +1,8 @@
+numpy
+Pillow
+timm
+notebook
+pykan
+scikit-learn
+matplotlib
+pandas
